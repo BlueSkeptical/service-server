@@ -10,3 +10,4 @@ log.txt
 *.out
 *.tar
 uploaded_files/
+.DS_Store
